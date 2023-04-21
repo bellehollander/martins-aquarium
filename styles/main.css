@@ -1,0 +1,151 @@
+#websiteName {
+  text-align: center;
+  color: lightblue;
+  text-shadow: 5px 0px black;
+  font-size: 80px;
+  margin-right: 60px;
+}
+body {
+  background-image: url("https://thumbs.dreamstime.com/b/hand-drawn-fish-water-seamless-pattern-adult-coloring-pages-doodle-zentangle-tribal-style-ethnic-ornamental-vector-65683549.jpg");
+}
+#logo {
+  border-radius: 50%;
+}
+
+#fishcard {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  border: 2px solid pink;
+  border-width: 10px;
+  width: 40%;
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: lavenderblush;
+  padding-left: 190px;
+}
+.fish__name {
+  color: lightblue;
+  font-size: 30px;
+  text-shadow: 1px 1px black;
+}
+.fish__image-image--card {
+  width: 60px;
+  height: 60px;
+  border-radius: 60px;
+  border: 2px solid coral;
+  margin-top: 10px;
+}
+.bold {
+  color: lightblue;
+  font-weight: bold;
+}
+.fish__length {
+  margin-right: 8px;
+  margin-left: 8px;
+}
+.fish__location {
+  margin-right: 8px;
+  margin-left: 8px;
+}
+.fish__diet {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+#MartinFishTitle {
+  display: flex;
+  flex-direction: column;
+  color: lightblue;
+  text-shadow: 1px 1px black;
+  font-size: 30px;
+  text-align: center;
+}
+.fish-card {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  margin-right: 250px;
+  margin-top: 20px;
+}
+.fish__species {
+  margin-left: 10px;
+}
+
+.cleaningtips {
+  float: right;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  position: absolute;
+  margin-left: 780px;
+  margin-right: 10px;
+  margin-top: -1700px;
+  border: 2px solid pink;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 10px;
+  border-width: 10px;
+  align-items: center;
+  background-color: lavenderblush;
+}
+#cleaning-Tips {
+  color: lightblue;
+}
+
+#traveltips {
+  border: 2px solid pink;
+  border-width: 10px;
+  margin-top: 30px;
+  text-align: center;
+  width: fit-content;
+  background-color: lavenderblush;
+}
+#header-for-travel {
+  font-size: 30px;
+  margin-right: 20px;
+  color: lightblue;
+  text-shadow: 1px 1px black;
+}
+
+.locationLists {
+  display: flex;
+  border: 2px solid pink;
+  border-width: 10px;
+  margin: 30px;
+  text-align: center;
+  flex-direction: column;
+  background-color: lavenderblush;
+}
+#locationTitle {
+  font-size: 30px;
+  color: lightblue;
+  text-shadow: 1px 1px black;
+}
+.location__name {
+  font-size: 20px;
+}
+.tip__name {
+  font-weight: bold;
+  color: lightblue;
+}
+#tipListTitle {
+  color: lightblue;
+  text-shadow: 1px 1px black;
+}
+#fun {
+  font-size: 20px;
+  font-weight: bold;
+  color: lightblue;
+  text-shadow: 1px 1px black;
+}
+#fish-food {
+  margin-left: 800px;
+  margin-top: -1250px;
+}
+#fish-video {
+  margin-left: 800px;
+  margin-top: -600px;
+}
